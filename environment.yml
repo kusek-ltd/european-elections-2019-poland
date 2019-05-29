@@ -1,0 +1,11 @@
+name: european-elections-2019
+channels:
+  - defaults
+dependencies:
+  - geopandas
+  - matplotlib
+  - nb_conda_kernels
+  - numpy
+  - pandas
+  - python=3.7.3
+  - selenium
