@@ -8,3 +8,4 @@ git lfs install
 
 git lfs track "*.zip"
 git lfs track "*.shp"
+git lfs track "*.dbf"
